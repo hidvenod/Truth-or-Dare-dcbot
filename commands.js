@@ -1,5 +1,5 @@
 module.exports = {
-"真心話大冒險" :   function(interation){
+"TruthorDare" :   function(interation){
         try {
             function getRandomInt(min, max) {
                 min = Math.ceil(min);
